@@ -1,8 +1,11 @@
-### Hi there 👋
+### Thanks for visiting my profile 👋
 
 
 - 🔭 I’m currently working on PCC(Phoenix Community Capital, https://gitlab.com/pccinc).
-- 💬 Ask me about ...
+- 💬 Ask me about blockchain.
+
+### Contact Info: t.me/@solanalover
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
