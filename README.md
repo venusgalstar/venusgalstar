@@ -1,7 +1,7 @@
 ### Thanks for visiting my profile 👋
 
 
-- 🔭 I’m currently working on PCC(Phoenix Community Capital, https://gitlab.com/pccinc).
+- 🔭 I’m currently working on Freelancer
 - 💬 Ask me about blockchain.
 
 ### Contact Info: t.me/@VenusGalStar
