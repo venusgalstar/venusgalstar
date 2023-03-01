@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Freelancer
-- 💬 Ask me about blockchain.
+- 💬 Ask me about backend & blockchain & frontend.
 
 
 <div id="header" align="center">
