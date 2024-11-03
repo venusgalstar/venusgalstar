@@ -1,7 +1,7 @@
 ### Thanks for visiting my profile 👋
 
 
-- 🔭 I’m currently working on Freelancer
+- 🔭 I’m currently working on Remote
 - 💬 Ask me about AI & backend & blockchain & frontend.
 
 
